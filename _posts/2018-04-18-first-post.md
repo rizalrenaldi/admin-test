@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Post
-categories: ''
+categories: jekyll update
 ---
 First post is always lorem ipsum.
 
