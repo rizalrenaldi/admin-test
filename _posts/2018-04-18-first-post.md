@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Post
-categories: regular
+categories: ''
 ---
 First post is always lorem ipsum.
 
